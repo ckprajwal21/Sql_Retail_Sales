@@ -47,10 +47,3 @@ The dataset contains retail transaction records including:
 
 ---
 
-## 📂 Project Structure
-Retail-Sales-Analysis/
-│
-├── RETAIL_SALES.sql # SQL queries for analysis
-├── SQL - Retail Sales Analysis_utf.csv # Dataset
-├── README.md # Project documentation
-
